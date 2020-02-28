@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
+#效果如图
 ![image](https://github.com/lishuocoder/EpidemicMap/blob/master/map.png)
